@@ -1,4 +1,4 @@
-technical_interview_questions
+Technical Interview Questions
 =============================
 
 **General**
