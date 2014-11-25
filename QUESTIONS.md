@@ -18,6 +18,7 @@ Technical Interview Questions
 - Implement squareroot function
 - Implement an exponent function (bonus: now try in log(n) time)
 - Write a multiply function that multiples 2 integers without using *
+- Given n points, return the top k points that are closest to the origin
 - **HARD**: Given a function rand5() that returns a random int between 0 and 5, implement rand7()
 - **HARD**: Given a 2D array of 1s and 0s, count the number of "islands of 1s" (e.g. groups of connecting 1s)
 
@@ -70,6 +71,7 @@ Technical Interview Questions
     ```Ex. A-->B-->C --> D-->E -->C, C is the node that begins the loop```
 - Check whether a link list is a palindrome
 - Reverse a linked list iteratively and recursively
+- Given a linked list, where each node has a link to a random node in the list, make a copy of the entire list
 
 **Sorting**
 - Implement bubble sort
@@ -112,6 +114,8 @@ Technical Interview Questions
 - Given a sorted array of n integers that has been rotated an unknown number of times, write code to find an element in the array. Sorted in increasing order
 
     ```Input: find 5 in (15, 16, 19, 20, 25, 1, 3, 4, 5, 6, 10, 14) Output 8```
+- Implement a simple regular expression matching function
+
 
 **Uncategorized**
 - Given a max-heap, how do I find the top k items?
