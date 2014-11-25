@@ -69,7 +69,7 @@ Technical Interview Questions
 - Check whether a link list is a palindrome
 - Reverse a linked list iteratively and recursively
 - Given a linked list, where each node has a link to a random node in the list, make a copy of the entire list
-- Given a singly LL A->B->C->D->E->F... convert B->A->D->C->F->E...
+- Given a singly LL A->B->C->D->E->F... convert to B->A->D->C->F->E...
 
 **Sorting**
 - Implement bubble sort
