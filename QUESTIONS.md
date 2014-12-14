@@ -26,6 +26,8 @@ Technical Interview Questions
             5 4 1           1 2 3
             3   2   --->    8   4
             7 8 6           7 6 5
+- There is k parenthesis, write code to calculate how many permutations could have. 
+    For 2 parenthesis, there is 2 permutations: ()() and (()).
 - **HARD**: Given a function rand5() that returns a random int between 0 and 5, implement rand7()
 - **HARD**: Given a 2D array of 1s and 0s, count the number of "islands of 1s" (e.g. groups of connecting 1s)
 
