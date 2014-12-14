@@ -20,6 +20,12 @@ Technical Interview Questions
 - Write a multiply function that multiples 2 integers without using *
 - Given n points, return the top k points that are closest to the origin
 - We’re going to find “Word Twins”, which are pairs of English words, at least 4 letters long, where the first three letters of one are the last three letters of another.  For example, “strategy” and “Egypt”.
+- Given a 3*3 matrix, and 1-8 numbers in random order, 1 place as space. 
+        Write code to find the min exchange of numbers to make the matrix in order.
+            
+            5 4 1           1 2 3
+            3   2   --->    8   4
+            7 8 6           7 6 5
 - **HARD**: Given a function rand5() that returns a random int between 0 and 5, implement rand7()
 - **HARD**: Given a 2D array of 1s and 0s, count the number of "islands of 1s" (e.g. groups of connecting 1s)
 
