@@ -64,7 +64,7 @@ Technical Interview Questions
 - Find the minimum element in a stack in O(1) time
 - Write a function that sorts a stack (bonus: sort the stack in place without extra memory)
 - Implement a binary min heap. Turn it into a binary max heap
-- **HARD**: Implement a queue using 2 stacks
+- **HARD**: Implement a queue using two stacks
 
 **Linked Lists**
 - Implement a linked list (with insert and delete functions)
@@ -155,7 +155,6 @@ Technical Interview Questions
 - Single array to implement three stacks
 - Stack with min element
 - Towers of Hanoi
-- Queue using two stacks
 - Sort a stack in ascending order using at most one additional stack to hold items but you may not copy the elements into any other data structure
 - Function to see if a tree is balanced
 - Graph algorithm, route between two nodes
